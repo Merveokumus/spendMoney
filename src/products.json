@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Kurşun Kalem",
+        "price":15,
+        "image": "https://www.nezih.com.tr/faber-castell-koseli-mercanli-kursun-kalem-100760-89-B.jpg"
+    },
+    {
+        "id":2,
+        "title":"Silgi",
+        "price":10,
+        "image":"https://www.istekle.com/images/thumbs/001/0019703_faber-castell-mavi-silgi_625.jpeg"
+    },
+    {
+        "id":3,
+        "title":"Defter",
+        "price":25,
+        "image":"https://productimages.hepsiburada.net/s/29/375-375/10246112477234.jpg"
+    },
+    {
+        "id":4,
+        "title":"Pastel Boya",
+        "price":50,
+        "image":"https://s3.cloud.ngn.com.tr/kitantik/images/2022-07-18/1br9qfyl5r4rv4d1euk.jpg"
+    },
+    {
+        "id":5,
+        "title":"Dolma Kalem",
+        "price":15,
+        "image":"https://d1o785do8fyxgx.cloudfront.net/stock_item/stock_item_images/images/000/000/592/original/EMP_PEN_ROLLERBALL_WAVE_LIGHT_PINK_1_ECOMM_RESIZED.png?1676473678"
+    }
+
+
+]
